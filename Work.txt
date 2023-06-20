@@ -1,0 +1,31 @@
+
+
+Service Provider
+
+View Flight Delay Data Set Details,
+Search & Predict Flight Delay Data Sets,
+Calculate and View All Flight Delay Prediction,
+View All Flights with No Delay,
+View All Remote Users,
+View Actual Flight Delay Results by Line Chart,
+View Actual Flight Delay Results,
+View Flight Delay Prediction Results,
+
+
+Remote User
+
+REGISTER AND LOGIN,
+POST FLIGHT DELAY DATA SETS,
+SEARCH & PREDICT FLIGHT DELAY DATA SETS,
+VIEW YOUR PROFILE,
+
+
+Members
+
+
+Departure_Country,Departure_Airport,Flight_Name,Flight_Number,
+Date,Departure_Scheduled_Time,Pre_Flight,Expected_Delay,Historical_Flight_Delay,
+Total_Flight_Delay,Arrival_Country,Arrival_Airport,Airport_Delay_Reason,
+Air_Route_Delay_Reason,Other_Reason,
+
+
